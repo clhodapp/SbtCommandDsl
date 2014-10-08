@@ -1,3 +1,4 @@
+Example build.sbt:
 ```
 import CommandDsl._
 import UnsafePretty._
